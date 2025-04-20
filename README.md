@@ -31,7 +31,6 @@ This AI-Powered IDS is a **cost-effective, real-time network defense tool** inte
 The system is **plugged in between the router and switch** for seamless traffic analysis, designed to work even in offline environments (ideal for remote and rural deployments).
 
 ---
-
 ## Target Audience
 
 - 👨‍🏫 Educational Institutes and Labs  
