@@ -120,9 +120,7 @@ The Flask web dashboard provides:
 - Network traffic statistics
 - Graphs powered by Chart.js
 
-🔗 Access via: `http://<your-pi-ip>:5000`
-
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Live+Dashboard+Preview)
+🔗 Access via: `http://192.168.59.36:5000`
 
 ---
 
