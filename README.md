@@ -57,6 +57,7 @@ The system is **plugged in between the router and switch** for seamless traffic 
 | Testing Tools   | hping3, hydra, netcat, Wireshark    |
 
 ---
+![Alt Text](image.jpeg)
 
 ## 📐 System Architecture
           [Internet]
