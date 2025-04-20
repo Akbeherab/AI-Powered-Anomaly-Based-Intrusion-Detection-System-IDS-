@@ -109,6 +109,17 @@ The system is **plugged in between the router and switch** for seamless traffic 
 - **Prediction Time**: < 0.5 sec on Raspberry Pi 4
 
 ---
+## 🔗 Model Training (Google Colab)
+
+You can train or test the machine learning model used in this Intrusion Detection System directly using Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y0vSX56S7ObC94boj3f7vqQOSScpUTS7)
+
+This notebook includes:
+- Data preprocessing and feature selection
+- Training using XGBoost/RandomForest
+- Evaluation metrics
+- Model export for deployment on Raspberry Pi or Flask app
 
 ## 📈 Live Dashboard
 
