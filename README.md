@@ -26,7 +26,7 @@
 
 ## 📖 Project Summary
 
-This AI-Powered IDS is a **cost-effective, real-time network defense tool** intended for homes, schools, and small organizations. It monitors system usage, processes incoming network data, detects threats using trained ML models, auto-blocks malicious IPs via `iptables`, and displays everything on a clean Flask dashboard.
+This AI-Powered IDS is a **cost-effective, real-time network defense tool** intended for homes, schools, and small organizations. It monitors incoming network data traffic, detects threats using trained ML models, auto-blocks malicious IPs via `iptables`, and displays everything on a clean Flask dashboard.
 
 The system is **plugged in between the router and switch** for seamless traffic analysis, designed to work even in offline environments (ideal for remote and rural deployments).
 
